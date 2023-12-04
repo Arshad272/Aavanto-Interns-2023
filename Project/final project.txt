@@ -1,0 +1,16 @@
+Desktop Assistant
+
+1 Listen to a command 
+SpeechRecognition 
+
+2 speak 
+gTTS - google text to speech 
+pyttsx3 - python text to speech 
+
+3 perform some action
+os module - control panel, camera 
+webbrowser 
+wikepedia 
+
+
+FILE NAME - name_emailid.py
